@@ -11,12 +11,11 @@ RECOMMENDED:
 - Keep your hand clearly visible to the camera
 
 INSTALL:
-1. Extract the ZIP file to a normal folder such as Documents.
-2. Install Python 3.11 (64-bit) if it is not already installed.
+1. Install Python 3.11 (64-bit) if it is not already installed.
    During installation, select "Add Python to PATH".
-3. Double-click INSTALL_AND_RUN.bat.
-4. Allow camera access if Windows asks.
-5. A camera preview opens. Keep this window open while controlling the pointer.
+2. Double-click INSTALL_AND_RUN.bat.
+3. Allow camera access if Windows asks.
+4. A camera preview opens. Keep this window open while controlling the pointer.
 
 GESTURES:
 - Index finger raised alone: move the pointer.
